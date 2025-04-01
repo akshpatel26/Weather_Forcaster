@@ -6,7 +6,7 @@
 - All the weather information is beautifully organized and shows you in very easy way.
 - Here I use streamlit library for frontend devlopment.
 
-#### This project has been deployed in streamlit cloud, go and get a visit from this
+####  Check out the Live Demo here:   https://weatherforcaster-by-aksh.streamlit.app/
 
 <br/>
 
